@@ -5933,7 +5933,7 @@
       ]
     },
     {
-      "Name": "Control_Olkkola1993_PO",
+      "Name": "Control_Olkkola1993_Oral",
       "Model": "4Comp",
       "ObservedData": [
         "Olkkola 1993 - po Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=12)"
@@ -6251,9 +6251,9 @@
           ],
           "Curves": [
             {
-              "Name": "Control_Olkkola1993_PO-Midazolam-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Control_Olkkola1993_Oral-Midazolam-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Control_Olkkola1993_PO|Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+              "Y": "Control_Olkkola1993_Oral|Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1

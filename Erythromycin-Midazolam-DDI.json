@@ -2785,21 +2785,21 @@
       ]
     },
     {
-      "Name": "Midazolam_Dissolved",
+      "Name": "Oral solution",
       "FormulationType": "Formulation_Dissolved"
     },
     {
-      "Name": "Midazolam_Weibull",
+      "Name": "Tablet (Dormicum)",
       "FormulationType": "Formulation_Tablet_Weibull",
       "Parameters": [
         {
           "Name": "Dissolution time (50% dissolved)",
-          "Value": 0.0105302214,
+          "Value": 0.0107481462,
           "Unit": "min",
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'PI Tablet 7.5 mg' in file Midazolam_2.2.pksim5"
+            "Description": "Value updated from 'PI Tablet 7.5 mg' on 2019-04-09 16:30"
           }
         },
         {
@@ -2809,11 +2809,11 @@
         },
         {
           "Name": "Dissolution shape",
-          "Value": 4.3752982592,
+          "Value": 4.3802943225,
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'PI Tablet 7.5 mg' in file Midazolam_2.2.pksim5"
+            "Description": "Value updated from 'PI Tablet 7.5 mg' on 2019-04-09 16:30"
           }
         },
         {
@@ -5984,7 +5984,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|DDI_Olkkola1993_MID_po_0h|Midazolam_Dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI_Olkkola1993_MID_po_0h|Oral solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -6215,7 +6215,7 @@
             "Name": "DDI_Olkkola1993_MID_po_0h",
             "Formulations": [
               {
-                "Name": "Midazolam_Dissolved",
+                "Name": "Oral solution",
                 "Key": "Formulation"
               }
             ]
@@ -6869,7 +6869,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|DDI_Zimmermann1996_MID_0h|Midazolam_Weibull|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI_Zimmermann1996_MID_0h|Tablet (Dormicum)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 1.36986,
           "Unit": "ml/kg"
         },
@@ -7100,7 +7100,7 @@
             "Name": "DDI_Zimmermann1996_MID_0h",
             "Formulations": [
               {
-                "Name": "Midazolam_Weibull",
+                "Name": "Tablet (Dormicum)",
                 "Key": "Formulation"
               }
             ]
@@ -7157,7 +7157,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Midazolam-DDI_Erythromycin-v1.0\nControl_Zimmermann1996\n2020-01-21 16:28"
+          "OriginText": "Erythromycin-Midazolam-DDI\nControl_Zimmermann1996\n2020-03-17 09:17"
         }
       ]
     },
@@ -7342,7 +7342,7 @@
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI_Zimmermann1996_MID_97.5h|Midazolam_Weibull|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI_Zimmermann1996_MID_97.5h|Tablet (Dormicum)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 1.36986,
           "Unit": "ml/kg"
         },
@@ -7574,7 +7574,7 @@
             "Name": "DDI_Zimmermann1996_MID_97.5h",
             "Formulations": [
               {
-                "Name": "Midazolam_Weibull",
+                "Name": "Tablet (Dormicum)",
                 "Key": "Formulation"
               }
             ]
@@ -7684,7 +7684,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Midazolam-DDI_Erythromycin-v1.0\nTreatment_Zimmermann1996\n2020-02-19 14:57"
+          "OriginText": "Erythromycin-Midazolam-DDI\nTreatment_Zimmermann1996\n2020-03-17 09:25"
         }
       ],
       "Interactions": [
@@ -7747,7 +7747,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|DDI_Okudaira2007_MID_5mg_EM0|Midazolam_Dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI_Okudaira2007_MID_5mg_EM0|Oral solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -7978,7 +7978,7 @@
             "Name": "DDI_Okudaira2007_MID_5mg_EM0",
             "Formulations": [
               {
-                "Name": "Midazolam_Dissolved",
+                "Name": "Oral solution",
                 "Key": "Formulation"
               }
             ]
@@ -8290,7 +8290,7 @@
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI_Okudaira2007_MID_2.5mg_EM2|Midazolam_Dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI_Okudaira2007_MID_2.5mg_EM2|Oral solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -8522,7 +8522,7 @@
             "Name": "DDI_Okudaira2007_MID_2.5mg_EM2",
             "Formulations": [
               {
-                "Name": "Midazolam_Dissolved",
+                "Name": "Oral solution",
                 "Key": "Formulation"
               }
             ]
@@ -8883,7 +8883,7 @@
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI_Okudaira2007_MID_2.5mg_EM4|Midazolam_Dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI_Okudaira2007_MID_2.5mg_EM4|Oral solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -9115,7 +9115,7 @@
             "Name": "DDI_Okudaira2007_MID_2.5mg_EM4",
             "Formulations": [
               {
-                "Name": "Midazolam_Dissolved",
+                "Name": "Oral solution",
                 "Key": "Formulation"
               }
             ]
@@ -9480,7 +9480,7 @@
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI_Okudaira2007_MID_2.5mg_EM7|Midazolam_Dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI_Okudaira2007_MID_2.5mg_EM7|Oral solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -9712,7 +9712,7 @@
             "Name": "DDI_Okudaira2007_MID_2.5mg_EM7",
             "Formulations": [
               {
-                "Name": "Midazolam_Dissolved",
+                "Name": "Oral solution",
                 "Key": "Formulation"
               }
             ]
@@ -9858,7 +9858,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|DDI_Carls2014_MID_0.003mg_Control|Midazolam_Dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI_Carls2014_MID_0.003mg_Control|Oral solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -10089,7 +10089,7 @@
             "Name": "DDI_Carls2014_MID_0.003mg_Control",
             "Formulations": [
               {
-                "Name": "Midazolam_Dissolved",
+                "Name": "Oral solution",
                 "Key": "Formulation"
               }
             ]
@@ -10208,7 +10208,7 @@
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI_Carls2014_MID_0.003mg_Treatment|Midazolam_Dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI_Carls2014_MID_0.003mg_Treatment|Oral solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -10440,7 +10440,7 @@
             "Name": "DDI_Carls2014_MID_0.003mg_Treatment",
             "Formulations": [
               {
-                "Name": "Midazolam_Dissolved",
+                "Name": "Oral solution",
                 "Key": "Formulation"
               }
             ]
@@ -10634,7 +10634,7 @@
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI_Carls2014_MID_0.003mg_Treatment|Midazolam_Dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI_Carls2014_MID_0.003mg_Treatment|Oral solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -10866,7 +10866,7 @@
             "Name": "DDI_Carls2014_MID_0.003mg_Treatment",
             "Formulations": [
               {
-                "Name": "Midazolam_Dissolved",
+                "Name": "Oral solution",
                 "Key": "Formulation"
               }
             ]
@@ -11182,7 +11182,7 @@
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI_Olkkola1993_MID_po_128h|Midazolam_Dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI_Olkkola1993_MID_po_128h|Oral solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -11459,7 +11459,7 @@
             "Name": "DDI_Olkkola1993_MID_po_128h",
             "Formulations": [
               {
-                "Name": "Midazolam_Dissolved",
+                "Name": "Oral solution",
                 "Key": "Formulation"
               }
             ]

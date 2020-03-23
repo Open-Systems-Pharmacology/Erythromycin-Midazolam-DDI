@@ -93,7 +93,7 @@
           ]
         },
         {
-          "Name": "LST-3TM12",
+          "Name": "OATP1B1",
           "Type": "Transporter",
           "TransportType": "Influx",
           "Expression": [
@@ -283,7 +283,7 @@
           ]
         },
         {
-          "Name": "LST-3TM12",
+          "Name": "OATP1B1",
           "Type": "Transporter",
           "TransportType": "Influx",
           "Expression": [
@@ -555,7 +555,7 @@
           ]
         },
         {
-          "Name": "LST-3TM12",
+          "Name": "OATP1B1",
           "Type": "Transporter",
           "TransportType": "Influx",
           "Expression": [
@@ -747,7 +747,7 @@
           ]
         },
         {
-          "Name": "LST-3TM12",
+          "Name": "OATP1B1",
           "Type": "Transporter",
           "TransportType": "Influx",
           "Expression": [
@@ -933,7 +933,7 @@
           ]
         },
         {
-          "Name": "LST-3TM12",
+          "Name": "OATP1B1",
           "Type": "Transporter",
           "TransportType": "Influx",
           "Expression": [
@@ -5607,7 +5607,7 @@
             },
             {
               "Name": "OATP1B1-fitted",
-              "MoleculeName": "LST-3TM12"
+              "MoleculeName": "OATP1B1"
             },
             {
               "Name": "Glomerular Filtration-fitted"
@@ -6726,7 +6726,7 @@
             },
             {
               "Name": "OATP1B1-fitted",
-              "MoleculeName": "LST-3TM12"
+              "MoleculeName": "OATP1B1"
             },
             {
               "Name": "Glomerular Filtration-fitted"
@@ -7606,7 +7606,7 @@
             },
             {
               "Name": "OATP1B1-fitted",
-              "MoleculeName": "LST-3TM12"
+              "MoleculeName": "OATP1B1"
             },
             {
               "Name": "Glomerular Filtration-fitted"
@@ -8554,7 +8554,7 @@
             },
             {
               "Name": "OATP1B1-fitted",
-              "MoleculeName": "LST-3TM12"
+              "MoleculeName": "OATP1B1"
             },
             {
               "Name": "Glomerular Filtration-fitted"
@@ -9147,7 +9147,7 @@
             },
             {
               "Name": "OATP1B1-fitted",
-              "MoleculeName": "LST-3TM12"
+              "MoleculeName": "OATP1B1"
             },
             {
               "Name": "Glomerular Filtration-fitted"
@@ -9744,7 +9744,7 @@
             },
             {
               "Name": "OATP1B1-fitted",
-              "MoleculeName": "LST-3TM12"
+              "MoleculeName": "OATP1B1"
             },
             {
               "Name": "Glomerular Filtration-fitted"
@@ -10472,7 +10472,7 @@
             },
             {
               "Name": "OATP1B1-fitted",
-              "MoleculeName": "LST-3TM12"
+              "MoleculeName": "OATP1B1"
             },
             {
               "Name": "Glomerular Filtration-fitted"
@@ -10898,7 +10898,7 @@
             },
             {
               "Name": "OATP1B1-fitted",
-              "MoleculeName": "LST-3TM12"
+              "MoleculeName": "OATP1B1"
             },
             {
               "Name": "Glomerular Filtration-fitted"
@@ -11398,7 +11398,7 @@
             },
             {
               "Name": "OATP1B1-fitted",
-              "MoleculeName": "LST-3TM12"
+              "MoleculeName": "OATP1B1"
             },
             {
               "Name": "Glomerular Filtration-fitted"

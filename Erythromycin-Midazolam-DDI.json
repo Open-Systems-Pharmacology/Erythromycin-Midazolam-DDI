@@ -2023,16 +2023,6 @@
                 "Method": "InVitro",
                 "Description": "Average of reported values in the literature (PMID: 9107550 and PMID: 9566442)"
               }
-            },
-            {
-              "Name": "kcat",
-              "Value": 8.5030863889,
-              "Unit": "1/min",
-              "ValueOrigin": {
-                "Source": "ParameterIdentification",
-                "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
-              }
             }
           ]
         },
@@ -3965,16 +3955,6 @@
                 }
               ]
             }
-          ],
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
           ]
         }
       ],
@@ -4009,23 +3989,6 @@
                 }
               ]
             }
-          ],
-          "Parameters": [
-            {
-              "Name": "NumberOfRepetitions",
-              "Value": 1.0,
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "TimeBetweenRepetitions",
-              "Value": 0.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
           ]
         }
       ],
@@ -4059,16 +4022,6 @@
                   "Unit": "ml/kg"
                 }
               ]
-            }
-          ],
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
             }
           ]
         }
@@ -9831,6 +9784,34 @@
           "Parameters": [
             {
               "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
               "Value": 2.0,
               "Unit": "h",
               "ValueOrigin": {
@@ -9839,7 +9820,7 @@
             },
             {
               "Name": "End time",
-              "Value": 4.0,
+              "Value": 8.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -9848,10 +9829,7 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
+              "Unit": "pts/h"
             }
           ]
         }
@@ -10135,7 +10113,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Midazolam-DDI\nDDI_Control_Carls2014\n2019-12-09 17:44"
+          "OriginText": "Erythromycin-Midazolam-DDI\nControl_Carls2014\n2020-04-02 09:41"
         }
       ]
     },
@@ -11721,11 +11699,11 @@
             },
             {
               "Name": "maxiter",
-              "Value": 200
+              "Value": 200.0
             },
             {
               "Name": "maxfev",
-              "Value": 0
+              "Value": 0.0
             },
             {
               "Name": "epsfcn",
@@ -22498,18 +22476,18 @@
             "MolWeight": 325.77
           },
           "Values": [
-            60.24532,
-            47.11826,
-            29.3443031,
-            18.2912369,
-            15.1264143,
-            12.2538013,
-            9.375188,
-            4.21438932,
-            1.77203166
+            0.06024532,
+            0.0471182577,
+            0.0293443035,
+            0.0182912368,
+            0.0151264137,
+            0.0122538013,
+            0.009375188,
+            0.00421438925,
+            0.00177203165
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/l"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -22629,19 +22607,19 @@
             "MolWeight": 325.77
           },
           "Values": [
-            173.617828,
-            111.993973,
-            86.6164856,
-            54.81482,
-            42.8821144,
-            35.04189,
-            28.6597233,
-            24.08185,
-            15.7982388,
-            4.36818552
+            0.17361784,
+            0.111993968,
+            0.08661649,
+            0.05481482,
+            0.0428821146,
+            0.03504189,
+            0.0286597237,
+            0.0240818486,
+            0.015798239,
+            0.00436818553
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/l"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -23656,20 +23634,20 @@
             "MolWeight": 733.93
           },
           "Values": [
-            2288054.25,
-            2585636.25,
-            2473795.0,
-            2404344.5,
-            2301957.0,
-            2014152.0,
-            1987191.75,
-            1846413.75,
-            1570207.38,
-            1037870.88,
-            531617.563
+            2.28805423,
+            2.58563614,
+            2.473795,
+            2.40434456,
+            2.301957,
+            2.014152,
+            1.9871918,
+            1.84641373,
+            1.57020736,
+            1.03787088,
+            0.5316176
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "pg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -24456,7 +24434,7 @@
         },
         {
           "Name": "N",
-          "Value": "6"
+          "Value": 6.0
         },
         {
           "Name": "Molecule",
@@ -25309,20 +25287,20 @@
             "MolWeight": 733.93
           },
           "Values": [
-            68399.03,
-            117641.328,
-            249236.734,
-            277253.125,
-            225069.359,
-            196946.0,
-            188559.172,
-            177841.672,
-            155844.234,
-            91368.41,
-            42770.7227
+            0.0683990344,
+            0.11764133,
+            0.249236733,
+            0.277253121,
+            0.225069359,
+            0.19694601,
+            0.188559175,
+            0.177841663,
+            0.155844226,
+            0.09136841,
+            0.04277072
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "pg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {

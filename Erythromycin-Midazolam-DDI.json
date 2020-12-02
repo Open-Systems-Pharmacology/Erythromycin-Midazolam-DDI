@@ -1,5 +1,5 @@
 {
-  "Version": 76,
+  "Version": 77,
   "Individuals": [
     {
       "Name": "Olkkola1993",
@@ -83,12 +83,22 @@
           },
           "Parameters": [
             {
+              "Name": "Reference concentration",
+              "Value": 4.32,
+              "Unit": "µmol/l"
+            },
+            {
               "Name": "t1/2 (liver)",
               "Value": 36.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -132,6 +142,23 @@
               "MembraneLocation": "Basolateral",
               "Value": 0.00064682539683
             }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
+            }
           ]
         },
         {
@@ -161,6 +188,16 @@
               "ValueOrigin": {
                 "Source": "Publication"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -186,6 +223,16 @@
                 "Method": "ParameterIdentification",
                 "Description": "Value updated from 'PI Hohmann iv+po, Hyland feUr MDZG, Thummel feUr unchanged - Pint' on 2018-09-28 10:40"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         }
@@ -273,12 +320,22 @@
           },
           "Parameters": [
             {
+              "Name": "Reference concentration",
+              "Value": 4.32,
+              "Unit": "µmol/l"
+            },
+            {
               "Name": "t1/2 (liver)",
               "Value": 36.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -322,6 +379,23 @@
               "MembraneLocation": "Basolateral",
               "Value": 0.00064682539683
             }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
+            }
           ]
         },
         {
@@ -351,6 +425,16 @@
               "ValueOrigin": {
                 "Source": "Publication"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -376,6 +460,16 @@
                 "Method": "ParameterIdentification",
                 "Description": "Value updated from 'PI Hohmann iv+po, Hyland feUr MDZG, Thummel feUr unchanged - Pint' on 2018-09-28 10:40"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         }
@@ -515,6 +609,11 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -551,6 +650,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -615,6 +724,23 @@
                 "Source": "Unknown"
               }
             }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
+            }
           ]
         },
         {
@@ -640,6 +766,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         }
@@ -743,6 +879,11 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -786,6 +927,23 @@
               "MembraneLocation": "Basolateral",
               "Value": 0.00064682539683
             }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
+            }
           ]
         },
         {
@@ -815,6 +973,16 @@
               "ValueOrigin": {
                 "Source": "Publication"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -840,6 +1008,16 @@
                 "Method": "ParameterIdentification",
                 "Description": "Value updated from 'PI Hohmann iv+po, Hyland feUr MDZG, Thummel feUr unchanged - Pint' on 2018-09-28 10:40"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         }
@@ -923,12 +1101,22 @@
           },
           "Parameters": [
             {
+              "Name": "Reference concentration",
+              "Value": 4.32,
+              "Unit": "µmol/l"
+            },
+            {
               "Name": "t1/2 (liver)",
               "Value": 36.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -972,6 +1160,23 @@
               "MembraneLocation": "Basolateral",
               "Value": 0.00064682539683
             }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
+            }
           ]
         },
         {
@@ -994,6 +1199,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1024,6 +1239,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         }
@@ -1116,12 +1341,22 @@
           },
           "Parameters": [
             {
+              "Name": "Reference concentration",
+              "Value": 4.32,
+              "Unit": "µmol/l"
+            },
+            {
               "Name": "t1/2 (liver)",
               "Value": 36.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1231,6 +1466,23 @@
             {
               "Name": "ColonSigmoid",
               "Value": 0.00010384615385
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1620,6 +1872,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1662,6 +1924,23 @@
               "Name": "Muscle",
               "MembraneLocation": "Basolateral",
               "Value": 0.00064682539683
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1777,6 +2056,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1807,6 +2096,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1830,6 +2129,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         }
@@ -5388,7 +5697,7 @@
             },
             {
               "Name": "End time",
-              "Value": 131.0,
+              "Value": 152.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -5401,31 +5710,6 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 131.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 148.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
             }
           ]
         }
@@ -5556,14 +5840,16 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Total Hepatic Clearance-fitted"
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
             },
             {
               "Name": "OATP1B1-fitted",
               "MoleculeName": "OATP1B1"
             },
             {
-              "Name": "Glomerular Filtration-fitted"
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -5610,7 +5896,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -5712,7 +5999,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Erythromycin_v05_OATP1B1_Test (3)\nTreatment_Olkkola1993_IV\n2020-01-13 16:28"
+          "OriginText": "Erythromycin-Midazolam-DDI\nTreatment_Olkkola1993_IV\n2020-12-02 18:18"
         }
       ],
       "Interactions": [
@@ -5740,34 +6027,12 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
+              "Value": 24.0,
               "Unit": "h"
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 42.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
               "Unit": "pts/h"
             }
           ]
@@ -5819,7 +6084,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -5881,7 +6147,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin_v04\nControl_Olkkola1993_IV\n2019-12-03 11:55"
+          "OriginText": "Erythromycin-Midazolam-DDI\nControl_Olkkola1993_IV\n2020-12-02 18:16"
         }
       ]
     },
@@ -5902,34 +6168,12 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
+              "Value": 24.0,
               "Unit": "h"
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 42.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
               "Unit": "pts/h"
             }
           ]
@@ -6157,7 +6401,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -6225,7 +6470,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin_v04\nControl_Olkkola1993_PO\n2019-12-03 12:00"
+          "OriginText": "Erythromycin-Midazolam-DDI\nControl_Olkkola1993_Oral\n2020-12-02 18:16"
         }
       ]
     },
@@ -6246,34 +6491,12 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
+              "Value": 24.0,
               "Unit": "h"
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 4.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
               "Unit": "pts/h"
             }
           ]
@@ -6325,7 +6548,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -6387,7 +6611,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Midazolam-DDI\nSwart2002_Control\n2019-11-07 09:57"
+          "OriginText": "Erythromycin-Midazolam-DDI\nControl_Swart2002\n2020-12-02 18:21"
         }
       ]
     },
@@ -6408,25 +6632,6 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
               "Value": 96.0,
               "Unit": "h",
               "ValueOrigin": {
@@ -6452,7 +6657,7 @@
             },
             {
               "Name": "End time",
-              "Value": 98.0,
+              "Value": 120.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -6465,31 +6670,6 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 98.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 100.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
             }
           ]
         }
@@ -6642,7 +6822,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -6675,14 +6856,16 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Total Hepatic Clearance-fitted"
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
             },
             {
               "Name": "OATP1B1-fitted",
               "MoleculeName": "OATP1B1"
             },
             {
-              "Name": "Glomerular Filtration-fitted"
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -6759,7 +6942,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin_v05_OATP1B1_Test (3)\nTreatment_Swart2002\n2020-01-13 16:45"
+          "OriginText": "Erythromycin-Midazolam-DDI\nTreatment_Swart2002\n2020-12-02 18:23"
         }
       ],
       "Interactions": [
@@ -6787,34 +6970,12 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
+              "Value": 24.0,
               "Unit": "h"
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 24.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
               "Unit": "pts/h"
             }
           ]
@@ -7042,7 +7203,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -7110,7 +7272,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Midazolam-DDI\nControl_Zimmermann1996\n2020-03-17 09:17"
+          "OriginText": "Erythromycin-Midazolam-DDI\nControl_Zimmermann1996\n2020-12-02 18:22"
         }
       ]
     },
@@ -7132,25 +7294,6 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
               "Value": 97.5,
               "Unit": "h",
               "ValueOrigin": {
@@ -7169,34 +7312,6 @@
             {
               "Name": "Start time",
               "Value": 97.5,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 100.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 100.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -7212,8 +7327,11 @@
             },
             {
               "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
             }
           ]
         }
@@ -7516,7 +7634,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -7555,14 +7674,16 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Total Hepatic Clearance-fitted"
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
             },
             {
               "Name": "OATP1B1-fitted",
               "MoleculeName": "OATP1B1"
             },
             {
-              "Name": "Glomerular Filtration-fitted"
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -7637,7 +7758,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Midazolam-DDI\nTreatment_Zimmermann1996\n2020-03-17 09:25"
+          "OriginText": "Erythromycin-Midazolam-DDI\nTreatment_Zimmermann1996\n2020-12-02 18:24"
         }
       ],
       "Interactions": [
@@ -7665,34 +7786,12 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
+              "Value": 24.0,
               "Unit": "h"
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 22.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
               "Unit": "pts/h"
             }
           ]
@@ -7920,7 +8019,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -7988,7 +8088,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin_v04\nControl_Okudaira2007_EM0\n2019-12-02 18:07"
+          "OriginText": "Erythromycin-Midazolam-DDI\nControl_Okudaira2007_EM0\n2020-12-02 18:11"
         }
       ]
     },
@@ -8009,31 +8109,6 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
               "Value": 25.0,
               "Unit": "h",
               "ValueOrigin": {
@@ -8059,7 +8134,7 @@
             },
             {
               "Name": "End time",
-              "Value": 27.0,
+              "Value": 49.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -8072,31 +8147,6 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 27.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 47.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
             }
           ]
         }
@@ -8464,7 +8514,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -8503,14 +8554,16 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Total Hepatic Clearance-fitted"
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
             },
             {
               "Name": "OATP1B1-fitted",
               "MoleculeName": "OATP1B1"
             },
             {
-              "Name": "Glomerular Filtration-fitted"
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -8574,7 +8627,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Midazolam-DDI_Erythromycin-v1.0\nTreatment_Okudaira2007_EM2\n2020-01-21 16:33"
+          "OriginText": "Erythromycin-Midazolam-DDI\nTreatment_Okudaira2007_EM2\n2020-12-02 18:12"
         }
       ],
       "Interactions": [
@@ -8598,28 +8651,6 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 2.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -8652,7 +8683,7 @@
             },
             {
               "Name": "End time",
-              "Value": 75.0,
+              "Value": 97.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -8665,31 +8696,6 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 75.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 95.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
             }
           ]
         }
@@ -9057,7 +9063,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -9096,14 +9103,16 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Total Hepatic Clearance-fitted"
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
             },
             {
               "Name": "OATP1B1-fitted",
               "MoleculeName": "OATP1B1"
             },
             {
-              "Name": "Glomerular Filtration-fitted"
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -9171,7 +9180,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Midazolam-DDI_Erythromycin-v1.0\nTreatment_Okudaira2007_EM4\n2020-01-21 16:34"
+          "OriginText": "Erythromycin-Midazolam-DDI\nTreatment_Okudaira2007_EM4\n2020-12-02 18:13"
         }
       ],
       "Interactions": [
@@ -9195,28 +9204,6 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 2.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -9249,7 +9236,7 @@
             },
             {
               "Name": "End time",
-              "Value": 147.0,
+              "Value": 169.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -9262,31 +9249,6 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 147.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 167.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
             }
           ]
         }
@@ -9654,7 +9616,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -9693,14 +9656,16 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Total Hepatic Clearance-fitted"
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
             },
             {
               "Name": "OATP1B1-fitted",
               "MoleculeName": "OATP1B1"
             },
             {
-              "Name": "Glomerular Filtration-fitted"
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -9764,7 +9729,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Midazolam-DDI_Erythromycin-v1.0\nTreatment_Okudaira2007_EM7\n2020-01-21 16:36"
+          "OriginText": "Erythromycin-Midazolam-DDI\nTreatment_Okudaira2007_EM7\n2020-12-02 18:15"
         }
       ],
       "Interactions": [
@@ -9792,7 +9757,7 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
+              "Value": 8.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -9805,31 +9770,6 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
             }
           ]
         }
@@ -10056,7 +9996,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -10113,7 +10054,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Midazolam-DDI\nControl_Carls2014\n2020-04-02 09:41"
+          "OriginText": "Erythromycin-Midazolam-DDI\nControl_Carls2014\n2020-12-02 18:07"
         }
       ]
     },
@@ -10137,7 +10078,7 @@
             },
             {
               "Name": "End time",
-              "Value": 3.0,
+              "Value": 9.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -10150,31 +10091,6 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 3.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 9.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
             }
           ]
         }
@@ -10407,7 +10323,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -10446,14 +10363,16 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Total Hepatic Clearance-fitted"
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
             },
             {
               "Name": "OATP1B1-fitted",
               "MoleculeName": "OATP1B1"
             },
             {
-              "Name": "Glomerular Filtration-fitted"
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -10532,7 +10451,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Erythromycin_v05_OATP1B1_Test (3)\nTreatment_Carls2014_250mg\n2020-01-14 10:24"
+          "OriginText": "Erythromycin-Midazolam-DDI\nTreatment_Carls2014_250mg\n2020-12-02 18:10"
         }
       ],
       "Interactions": [
@@ -10563,7 +10482,7 @@
             },
             {
               "Name": "End time",
-              "Value": 3.0,
+              "Value": 9.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -10576,31 +10495,6 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 3.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 9.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
             }
           ]
         }
@@ -10833,7 +10727,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -10872,14 +10767,16 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Total Hepatic Clearance-fitted"
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
             },
             {
               "Name": "OATP1B1-fitted",
               "MoleculeName": "OATP1B1"
             },
             {
-              "Name": "Glomerular Filtration-fitted"
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -10958,7 +10855,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Erythromycin_v05_OATP1B1_Test (3)\nTreatment_Carls2014_1000mg\n2020-01-13 17:54"
+          "OriginText": "Erythromycin-Midazolam-DDI\nTreatment_Carls2014_1000mg\n2020-12-02 18:08"
         }
       ],
       "Interactions": [
@@ -11026,7 +10923,7 @@
             },
             {
               "Name": "End time",
-              "Value": 131.0,
+              "Value": 152.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -11039,31 +10936,6 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 131.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 148.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
             }
           ]
         }
@@ -11372,14 +11244,16 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Total Hepatic Clearance-fitted"
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
             },
             {
               "Name": "OATP1B1-fitted",
               "MoleculeName": "OATP1B1"
             },
             {
-              "Name": "Glomerular Filtration-fitted"
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -11426,7 +11300,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -11455,7 +11330,7 @@
               "GridLines": false,
               "Visible": true,
               "Min": 126.3228,
-              "Max": 149.9057,
+              "Max": 152.0,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -11655,7 +11530,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Erythromycin_incl_all_MDZ_studies\nTreatment_Olkkola1993_Oral\n2020-01-14 16:00"
+          "OriginText": "Erythromycin-Midazolam-DDI\nTreatment_Olkkola1993_Oral\n2020-12-02 18:20"
         }
       ],
       "Interactions": [
@@ -22113,18 +21988,18 @@
             "MolWeight": 325.77
           },
           "Values": [
-            0.428252816,
-            0.2063197,
-            0.1605948,
-            0.1215613,
-            0.101486996,
-            0.09033457,
-            0.07360595,
-            0.041263938,
-            0.02230483
+            428.2528,
+            206.319717,
+            160.5948,
+            121.5613,
+            101.487,
+            90.33457,
+            73.60595,
+            41.26394,
+            22.30483
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
@@ -22476,18 +22351,18 @@
             "MolWeight": 325.77
           },
           "Values": [
-            0.06024532,
-            0.0471182577,
-            0.0293443035,
-            0.0182912368,
-            0.0151264137,
-            0.0122538013,
-            0.009375188,
-            0.00421438925,
-            0.00177203165
+            60.24532,
+            47.1182556,
+            29.3443031,
+            18.2912369,
+            15.1264143,
+            12.2538013,
+            9.375188,
+            4.21438932,
+            1.77203166
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
@@ -22607,19 +22482,19 @@
             "MolWeight": 325.77
           },
           "Values": [
-            0.17361784,
-            0.111993968,
-            0.08661649,
-            0.05481482,
-            0.0428821146,
-            0.03504189,
-            0.0286597237,
-            0.0240818486,
-            0.015798239,
-            0.00436818553
+            173.617828,
+            111.993973,
+            86.6164856,
+            54.81482,
+            42.8821144,
+            35.04189,
+            28.6597233,
+            24.08185,
+            15.7982388,
+            4.36818552
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
@@ -23634,20 +23509,20 @@
             "MolWeight": 733.93
           },
           "Values": [
-            2.28805423,
-            2.58563614,
-            2.473795,
-            2.40434456,
-            2.301957,
-            2.014152,
-            1.9871918,
-            1.84641373,
-            1.57020736,
-            1.03787088,
-            0.5316176
+            2288054.25,
+            2585636.25,
+            2473795.0,
+            2404344.5,
+            2301956.75,
+            2014152.0,
+            1987191.75,
+            1846413.75,
+            1570207.38,
+            1037870.88,
+            531617.563
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "pg/ml"
         }
       ],
       "BaseGrid": {
@@ -25287,20 +25162,20 @@
             "MolWeight": 733.93
           },
           "Values": [
-            0.0683990344,
-            0.11764133,
-            0.249236733,
-            0.277253121,
-            0.225069359,
-            0.19694601,
-            0.188559175,
-            0.177841663,
-            0.155844226,
-            0.09136841,
-            0.04277072
+            68399.03,
+            117641.328,
+            249236.734,
+            277253.125,
+            225069.359,
+            196946.0,
+            188559.172,
+            177841.672,
+            155844.234,
+            91368.41,
+            42770.7227
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "pg/ml"
         }
       ],
       "BaseGrid": {

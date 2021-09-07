@@ -42,7 +42,7 @@
         },
         {
           "Path": "GABRG2|Reference concentration",
-          "Value": 1.0877710492,
+          "Value": 1.04099689,
           "Unit": "µmol/l",
           "ValueOrigin": {
             "Source": "ParameterIdentification",
@@ -472,7 +472,7 @@
         },
         {
           "Path": "GABRG2|Reference concentration",
-          "Value": 1.0877710492,
+          "Value": 1.04099689,
           "Unit": "µmol/l",
           "ValueOrigin": {
             "Source": "ParameterIdentification",
@@ -907,7 +907,7 @@
         },
         {
           "Path": "GABRG2|Reference concentration",
-          "Value": 1.0877710492,
+          "Value": 1.04099689,
           "Unit": "µmol/l",
           "ValueOrigin": {
             "Source": "Unknown"
@@ -1406,7 +1406,7 @@
         },
         {
           "Path": "GABRG2|Reference concentration",
-          "Value": 1.0877710492,
+          "Value": 1.04099689,
           "Unit": "µmol/l",
           "ValueOrigin": {
             "Source": "ParameterIdentification",
@@ -1832,7 +1832,7 @@
         },
         {
           "Path": "GABRG2|Reference concentration",
-          "Value": 1.0877710492,
+          "Value": 1.04099689,
           "Unit": "µmol/l",
           "ValueOrigin": {
             "Source": "Unknown"
@@ -2297,7 +2297,7 @@
         },
         {
           "Path": "GABRG2|Reference concentration",
-          "Value": 1.0877710492,
+          "Value": 1.04099689,
           "Unit": "µmol/l",
           "ValueOrigin": {
             "Source": "Unknown"
@@ -3747,7 +3747,7 @@
             },
             {
               "Name": "kcat",
-              "Value": 2.0201069202,
+              "Value": 1.350032201,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
